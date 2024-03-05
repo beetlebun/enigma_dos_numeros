@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - numBtn
+  - oprBtn
+  - displayField
+  - Pinheiros
+  - Cachoeira
+  - Praia_do_Norte
+  - Penhasco_do_Mar
+  - Tel_Mithryn
+  - Praia_do_Sul
+  - Rocha_da_Terra
+  - Campos
+  - Mausoleu_das_Montanhas
+  - Ruinas_do_Deserto
+  - Rochedo
+  - Praia_do_Leste
+  - Bosque_Litoraneo
+  - Taiga
+  - Tundra
+  - Picos_Congelados
+  - Planicies_Nevadas
+  - Lago_Zurich
+  - resetBtn
+  - mapWindow
+  - backBtn
+  - bgImage
+  - oprText
+  - endBtn
+  - creditsWindow
+  - startWindow
+  - tutorial1
+  - tutorial2
+  - tutorial3
+  - tutorial4
+  - nextBtn1
+  - nextBtn2
+  - nextBtn3
+  - nextBtn4
+  - pickMap
+  - tutorial5
+  - nextBtn5
+  - frame1
+  - frame2
+  - frame3
+  - frame4
+  - frame5
+  - frame6
+  - frame7
+  - frame8
+  - frame9
+  - frame10
+  - nextFrameBtn
+  - playAgainBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
